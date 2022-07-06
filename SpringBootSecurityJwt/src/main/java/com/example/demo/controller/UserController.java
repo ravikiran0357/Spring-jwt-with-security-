@@ -24,7 +24,7 @@ public class UserController {
 	private UserService service;
 	@Autowired
 	private JwtUtil util;
-	
+	//changed
 	@Autowired
 	private AuthenticationManager authenticationManager;
 
